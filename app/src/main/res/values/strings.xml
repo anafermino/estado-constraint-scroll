@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ScrollEstado</string>
+    <string name="sao_paulo">São Paulo</string>
+    <string name="descricao"><b>Área:</b> 248.222,362 km²
+    <br/>\n<b>População:</b> 45.919.049 hab
+    <br/>\n<b>CLima:</b> Subtropical
+    <br/>\n<b>Capital:</b> São Paulo
+    <br/>\n<b>IDH:</b> 0,8
+    </string>
+
+    <string name="texto_geral"><b>Histórico</b>
+        <br/>\nA região do atual estado de <b>São Paulo</b> já era habitada por povos indígenas desde aproximadamente
+        12000 a.C. Por volta do ano 1000, o seu litoral foi invadido por povos tupis procedentes da Amazônia.
+        <br/><br/>\n\nNo início do século XVI, o litoral paulista já tinha sido visitado por navegadores portugueses e espanhóis,
+        mas somente em 1532 se deu a fundação da primeira povoação de origem europeia, São Vicente, na atual Baixada Santista,
+        por Martim Afonso de Sousa. Com a criação da Vila de São Vicente, instalou-se, o primeiro parlamento na América: a Câmara
+        da Vila de São Vicente. Realizaram-se também as primeiras eleições em continente americano. A procura de metais preciosos
+        levou os portugueses a ultrapassarem a Serra do Mar, pelo antigo caminho indígena do Peabiru e, em 1554, no planalto existente
+        após a Serra do Mar, foi fundada a vila de São Paulo de Piratininga pelos jesuítas liderados por Manuel da Nóbrega.
+        Até o fim do século XVI, os portugueses fundaram outras vilas no entorno do planalto, como Santana de Parnaíba,
+        garantindo, assim, a segurança e subsistência da vila de São Paulo.
+        <br/><br/>\n\nA fundação de São Vicente no litoral paulista iniciou o processo de colonização do Brasil como política sistemática
+        do governo português, motivada pela presença de estrangeiros que ameaçavam a posse da terra. Evidentemente, antes disso
+        já havia ali um núcleo português que, à semelhança de outros das regiões litorâneas, fora constituído por náufragos
+        e datava, provavelmente, do início do século XVI. Foi, no entanto, durante a estada de Martim Afonso de Sousa
+        que se fundou, em 20 de janeiro de 1532, a vila de São Vicente e com ela se instalou o primeiro marco efetivo da colonização
+        brasileira.
+        <br/><br/>\n\nA faixa litorânea, estreita pela presença da Serra do Mar, não apresentava as condições necessárias para o
+        desenvolvimento da grande lavoura. Por sua vez, o planalto deparava com o sério obstáculo do Caminho do Mar, que,
+        ao invés de ligar, isolava a região de Piratininga, negando-lhe o acesso ao oceano e, portanto, a facilidade para o transporte.
+        Em consequência, a capitania ficou relegada a um plano econômico inferior, impedida de cultivar com êxito o principal produto
+        agrícola do Brasil colonial, a cana-de-açúcar, e de concorrer com a principal zona açucareira da época, representada por
+        Pernambuco e Bahia.
+        <br/><br/>\n\nEstabeleceu-se, em Piratininga, uma policultura de subsistência, baseada no trabalho forçado do indígena americano.
+        Os inventários dos primeiros paulistas acusavam pequena quantidade de importações e completa ausência de luxo.
+        O isolamento criou no planalto uma sociedade peculiar. Chegar a São Paulo requeria fibra especial na luta contra as dificuldades
+        do acesso à serra, os ataques dos indígenas devido à invasão de suas terras, a fome, as doenças, o que levaria a imigração
+        europeia a um rigoroso processo seletivo. Tais condições de vida determinariam a formação de uma sociedade em moldes
+        mais democráticos que os daquela que se estabelecera mais ao norte da colônia.
+        <br/><br/><br/><br/>\n\n\n\n
+        </string>
+</resources>
